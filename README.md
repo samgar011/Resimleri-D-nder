@@ -1,2 +1,2 @@
 # Resimleri-D-nder
-# Resimerli Çevir 
+# Resimleri Dönder
